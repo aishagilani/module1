@@ -16,3 +16,10 @@ java program to swap two numbers without using a third variable
 java program to check if a number is even or odd
 ![image alt](https://github.com/aishagilani/module1/blob/c6ec4a453f17a8439bbd9534a603f4837239c3f2/Odd.jpeg)
 ![image alt](https://github.com/aishagilani/module1/blob/b9faec00eede8c5f67d63b6cdf331a10cbb7fc37/Even%20.jpeg)
+
+java program to find the largest of three numbers
+![image alt](https://github.com/aishagilani/module1/blob/39f80e50627f2b7da8426b1c1690fb6943ff8a61/Largest.jpeg)
+
+java program to find the sum and average of elements in an array
+
+
