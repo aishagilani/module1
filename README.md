@@ -12,3 +12,6 @@ java program to demonstrate type casting from double to int
 
 java program to swap two numbers without using a third variable
 ![image alt](https://github.com/aishagilani/module1/blob/6d4ac8e932e70c6a107ca9f209569b865da3a636/Swapping.jpeg)
+
+java program to check if a number is even or odd
+![image alt](https://github.com/aishagilani/module1/blob/c6ec4a453f17a8439bbd9534a603f4837239c3f2/Odd.jpeg)
