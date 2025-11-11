@@ -3,3 +3,5 @@ java program to print hello world
 
 java program to print your name, age and favorite language
 ![image alt](https://github.com/aishagilani/module1/blob/71068c499ead25e68deb0e10c32d79336cc65b24/Screenshot2025-11-11at6.50.45PM.jpeg)
+
+java program to calculate and print the area of a circle (radius = 7.5)
