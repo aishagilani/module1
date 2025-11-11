@@ -21,5 +21,8 @@ java program to find the largest of three numbers
 ![image alt](https://github.com/aishagilani/module1/blob/39f80e50627f2b7da8426b1c1690fb6943ff8a61/Largest.jpeg)
 
 java program to find the sum and average of elements in an array
+![image alt](https://github.com/aishagilani/module1/blob/acf88c1c8c6c4976ef2f6337a720ccce2b008f52/Sum%20and%20avg.jpeg)
+
+java program to create a student class and display student info
 
 
