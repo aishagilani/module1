@@ -21,7 +21,7 @@
 ![image alt](https://github.com/aishagilani/module1/blob/39f80e50627f2b7da8426b1c1690fb6943ff8a61/Largest.jpeg)
 
 8) java program to print the multiplication table of a number
-
+![image alt](https://github.com/aishagilani/module1/blob/70eee9522923e62782b250a3e0634cd07541e00d/Multiplication%20.jpeg)
 
 9) java program to find the sum and average of elements in an array
 ![image alt](https://github.com/aishagilani/module1/blob/acf88c1c8c6c4976ef2f6337a720ccce2b008f52/Sum%20and%20avg.jpeg)
