@@ -11,3 +11,4 @@ java program to demonstrate type casting from double to int
 ![image alt](https://github.com/aishagilani/module1/blob/2826f6fffc8a7aae01afb0350c6d5eb3617b01e8/Type%20casting.jpeg)
 
 java program to swap two numbers without using a third variable
+![image alt](https://github.com/aishagilani/module1/blob/6d4ac8e932e70c6a107ca9f209569b865da3a636/Swapping.jpeg)
